@@ -1,4 +1,4 @@
-package Algorithms.searching.;
+package Algorithms.sorting;
 
 /**
  * ============================================================
