@@ -102,4 +102,4 @@ public class CountPairsWithGivenSum {
         // Printing output
         System.out.println("Number of Pairs: " + result);
     }
-}d
+}
