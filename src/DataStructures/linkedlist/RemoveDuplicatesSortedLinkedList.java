@@ -15,9 +15,8 @@
  * - If current node and next node have the same value,
  *   skip the next node.
  * - Otherwise move to the next node.
- * ============================================================
- */
-
+ * ===========================================================  */
+import java.util.*;
 public class RemoveDuplicatesSortedLinkedList {
 
     public ListNode deleteDuplicates(ListNode A) {
